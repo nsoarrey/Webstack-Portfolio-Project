@@ -139,7 +139,7 @@ Here is the `Structure` of the **note-app🗒️**:
 ```groovy
 elysee_niyibizi@HACKER:~/note-app$ ls
 AUTHORS  LICENSE  README.md  Src  requirements.txt  venv
-elysee_niyibizi@HACKER:~/note-app$ tree -I venv
+root@HACKER:~/note-app$ tree -I venv
 .
 ├── AUTHORS
 ├── LICENSE
@@ -172,7 +172,7 @@ elysee_niyibizi@HACKER:~/note-app$ tree -I venv
 └── requirements.txt
 
 6 directories, 23 files
-elysee_niyibizi@HACKER:~/note-app$
+root@HACKER:~/note-app$
 ```
 
 ---
@@ -200,7 +200,7 @@ I would like to express my gratitude to the following individuals and organizati
 
 <div align="center">
 
-_**A good `note-taking` system is essential for capturing information [@kalibetre](https://twitter.com/kalibetre/status/1770038721267618025)✍️**. For more info visit 👉 [LINK](https://www.google.com/search?q=A+good+note-taking+system+is+essential+for+capturing+information&oq=A+good+note-taking+system+is+essential+for+capturing+information&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEAyBggDEEUYPTIGCAQQRRg80gEHNTkxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) ........😉_
+_**A good `note-taking` system is essential for capturing information                                                                       ✍️**. For more info visit 👉 [LINK](https://www.google.com/search?q=A+good+note-taking+system+is+essential+for+capturing+information&oq=A+good+note-taking+system+is+essential+for+capturing+information&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEAyBggDEEUYPTIGCAQQRRg80gEHNTkxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) ........😉_
 </div>
 
 ---
